@@ -1,0 +1,19 @@
+{
+  "name": "bottomsheet",
+  "version": "1.0.0",
+  "description": "Bottom sheet for NativeScript app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://linksmt@github.com/linksmt/bottomsheet.git"
+  },
+  "author": "Links",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linksmt/bottomsheet/issues"
+  },
+  "homepage": "https://github.com/linksmt/bottomsheet#readme"
+}
